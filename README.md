@@ -329,5 +329,4 @@ This project is licensed under the MIT License - see the (https://opensource.org
 
 - **Issues**: [GitHub Issues](https://github.com/mike-nessim/traffic-shaper/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/traffic-shaper/discussions)
-- **Documentation**: [Wiki](https://github.com/mike-nessim/traffic-shaper/wiki)
 
